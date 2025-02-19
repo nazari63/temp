@@ -86,3 +86,4 @@ If you're a builder who wants to add or update your project on the Base Ecosyste
 5. Our automated system will detect your ecosystem-related changes and update the PR description with the appropriate template. Please fill out all required information in the template.
 
 Note: Ensure you have all required information ready before starting your update. This includes project details, links, descriptions, and any necessary assets.
+This project is a demonstration of blockchain technology and smart contract integration.
